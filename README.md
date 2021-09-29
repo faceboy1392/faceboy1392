@@ -6,6 +6,7 @@ Hello! I'm a teenager who enjoys video games and programming.
 - Programming
 - Building computers
 - Neat machines
+- Breathing the air
 
 ### Other stuff
 
